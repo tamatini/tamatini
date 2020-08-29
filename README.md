@@ -12,7 +12,7 @@ j'apprend le code en autoformation.
 
 ## Me contacter:
 
-[<img align="left" alt="mail" width="26px" src="http://pngimg.com/uploads/email/email_PNG55.png">](tamatini@hotmail.fr)
+[<img align="left" alt="mail" width="26px" src="http://pngimg.com/uploads/email/email_PNG55.png">](mailto:tamatini@hotmail.fr)
 [<img align="left" alt="swifteur.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://swifteur.com)
 [<img align="left" alt="jeffrey | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/tamatini.teahui)
 [<img align="left" alt="jeffrey | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tamatini/?hl=fr)
